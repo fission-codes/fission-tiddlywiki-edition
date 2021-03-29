@@ -1,0 +1,11 @@
+created: 20210329065238288
+modified: 20210329065748791
+tags: [[To Do]]
+title: Configure Help Panel
+type: text/vnd.tiddlywiki
+
+Look at the [[help panel contents|$:/plugins/tiddlywiki/help]] and decide whether to include and customize it.
+
+The [[Support tab|$:/plugins/tiddlywiki/help/HelpPanel/Support]] can be edited.
+
+Delete some of the videos, include some new ones?

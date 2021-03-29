@@ -1,10 +1,10 @@
 created: 20210329004635352
-modified: 20210329005001681
+modified: 20210329063330854
 tags: Plugin Core Markdown
 title: Markdown Plugin
 type: text/vnd.tiddlywiki
 
-This is a Core plugin, enabled by default. You can choose to only use Markdown Tiddlers, or mix and match with native TiddlyWiki WikiText Tiddlers.
+This is a Core plugin, enabled by default. You can choose to only use Markdown Tiddlers, or mix and match with native ~TiddlyWiki WikiText Tiddlers.
 
 !! Readme
 

@@ -1,12 +1,32 @@
 created: 20210329000836612
 git: https://github.com/Jermolene/tiddlywiki-on-fission
-modified: 20210329003048368
+modified: 20210329065051140
 tags: Fission
 title: TiddlyWiki on Fission
 type: text/vnd.tiddlywiki
 website: https://tiddlywiki.fission.app
 
-~TiddlyWiki on Fission is a bit like [[TiddlyDesktop|https://tiddlywiki.com/static/TiddlyDesktop.html]]. You log into it with your Fission account at https://tiddlywiki.fission.app, and then either create a new [[TiddlyWiki Edition]], or select an existing one from your Fission Webnative file system.
+''~TiddlyWiki on Fission'' is a launcher for creating and editing ~TiddlyWiki files on the [[Fission]] app publishing platform.
+
+If you're asking yourself [[What is TiddlyWiki?]], you might want to read that first!
+
+You log in with your Fission account at https://tiddlywiki.fission.app, and then either create a new [[TiddlyWiki Edition]], or select an existing one from your Fission file system. Changes are saved to this file system.
+
+You can browse your file system with the [[Fission Drive]] app.
+
+This functions a bit like [[TiddlyDesktop|https://tiddlywiki.com/static/TiddlyDesktop.html]] for those familiar with ~TiddlyWiki already.
+
+The intent is for this to be a community open source project.
+
+We welcome the inclusion of Editions, Plugins, or other ~TiddlyWiki templates that would be interesting for people to build on, and to include and integrate out of the box. You're currently browsing the [[Fission Edition]].
+
+!! Events
+
+<$list filter="[tag[Event]]">
+<li><$link/></li>
+</$list>
+
+---
 
 * Discuss in the [[Fission TiddlyWiki forum|https://talk.fission.codes/c/apps/tiddlywiki/57]]
 * Visit the [[Open Collective to help fund new features|https://opencollective.com/tiddlywiki-on-fission]]

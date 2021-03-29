@@ -1,0 +1,18 @@
+created: 20210329055500626
+git: https://github.com/rimi/tw5-telmiger-plugins
+modified: 20210329060411315
+notes: Reference for TW's default wikitext as well as customization elements
+tags: Plugin Help
+title: Wikitext Markup Reference
+type: text/vnd.tiddlywiki
+website: https://tid.li/tw5/plugins.html
+
+This is the [[WikiText]] Markup Reference (WMR) plugin by [[Thomas Elmiger|https://tid.li/tw5/plugins.html]].
+
+!! Readme
+
+{{$:/plugins/telmiger/WMR/readme}}
+
+! Reference
+
+{{$:/plugins/telmiger/WMR/reference}}

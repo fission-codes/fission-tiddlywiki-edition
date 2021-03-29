@@ -1,0 +1,10 @@
+created: 20210324055347930
+modified: 20210329055452424
+title: wikilinks
+type: text/vnd.tiddlywiki
+
+Double brackets around `[[` words `]]` are called wikilinks.
+
+They are currently wildly popular among the [[Roam Research]] crowd.
+
+Linked wikilinks don't show double brackets around them in ~TiddlyWiki.

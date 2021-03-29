@@ -1,0 +1,12 @@
+created: 20210324055150604
+modified: 20210329064020886
+notes: A few words on the wikitext default markup language
+tags: Help
+title: WikiText
+type: text/vnd.tiddlywiki
+
+~WikiText is the default markup language that ~TiddlyWiki content is written in.
+
+Anything that is ~CamelCase will be linked, unless you add a ~ (tilde) in front, or you [[toggle the CamelCase linking option|$:/core/ui/ControlPanel/Settings/CamelCase]]. 
+
+Otherwise, use double brackets to make `[[wikilinks]]`. Yes, [[wikilinks]]!
