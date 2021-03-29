@@ -1,0 +1,10 @@
+created: 20210328233834965
+modified: 20210328235803154
+tags: Customize
+title: Customize External Links
+type: text/vnd.tiddlywiki
+
+The [[FontAwesome Control Panel|$:/plugins/TheDiveO/FontAwesome/ui/ControlPanel/FontAwesome]] lets you toggle which links you want to decorate.
+
+Various document types have custom icons, edit [[doctypes|$:/plugins/TheDiveO/FontAwesome/styles/extlinks/doctypes]] to change them or add your own.
+

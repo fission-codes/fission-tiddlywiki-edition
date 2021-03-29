@@ -1,0 +1,10 @@
+created: 20210329000155998
+modified: 20210329000904776
+notes: Add a link to a website field and display it at the bottom
+tags: Customize $:/tags/ViewTemplate
+title: WebsiteFooter
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]has[website]]">
+<li>Website: <a href={{!!website}}><$view field="website"/></a></li>
+</$list>

@@ -1,0 +1,21 @@
+created: 20170223100043117
+modified: 20210328231350945
+tags: $:/tags/Stylesheet
+title: $:/plugins/TheDiveO/FontAwesome/styles/extlinks
+type: text/vnd.tiddlywiki
+
+\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline html
+
+<$set name="cfg" value=<<fa5-cfgpath "decorate-extlinks">> >
+<$list filter=<<fa5-cfgfilterexpr>> >
+
+a[href^="http://"]:before, a[href^="https://"]:before {
+  <<fa-plugin-font-solid>>
+  font-size: 80%;
+  content: '\f35d\202f';
+  padding-right: 3px;
+  display: inline-block;
+}
+
+</$list>
+</$set>

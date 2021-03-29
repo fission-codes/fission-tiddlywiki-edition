@@ -1,0 +1,10 @@
+created: 20210329000907749
+modified: 20210329000958957
+notes: Add a link to a git code repo and display it at the bottom
+tags: Customize $:/tags/ViewTemplate
+title: GitFooter
+type: text/vnd.tiddlywiki
+
+<$list filter="[is[current]has[git]]">
+<li>Git: <a href={{!!git}}><$view field="git"/></a></li>
+</$list>

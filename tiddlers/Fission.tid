@@ -1,0 +1,26 @@
+created: 20210329001217857
+git: https://github.com/fission-suite
+modified: 20210329004215205
+title: Fission
+type: text/vnd.tiddlywiki
+website: https://fission.codes
+
+Fission is a next generation app publishing platform.
+
+The Webnative SDK lets software developers add user accounts, file storage, and more with just a few lines of code.
+
+Data is stored with each user account, encrypted end to end and available in any browser, including on mobile.
+
+The publishing platforms lets developers and users build, publish, and share apps by providing a micro-saas service: build an app once, enable 100s or 1000s of users.
+
+* Drop by the [[Discord chat|https://fission.codes/discord]]
+* Browse the [[forum discussion|https://talk.fission.codes]]
+* Get started with the [[developer guide|https://guide.fission.codes]]
+
+<$twitter type="followButton" screenName="FissionCodes"/>
+
+See recent [[Fission Tweets]].
+
+!!! About ~TiddlyWiki on Fission
+
+{{TiddlyWiki on Fission}}

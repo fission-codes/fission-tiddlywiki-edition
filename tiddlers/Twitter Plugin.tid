@@ -1,0 +1,15 @@
+created: 20210329004402009
+modified: 20210329005016205
+tags: Plugin Twitter Core
+title: Twitter Plugin
+type: text/vnd.tiddlywiki
+
+This is a core plugin that we've enabled by default.
+
+!! Readme
+
+{{$:/plugins/tiddlywiki/twitter/readme}}
+
+---
+
+Find out more about how to use the [[Twitter plugin|$:/plugins/tiddlywiki/twitter]] and its different widgets.

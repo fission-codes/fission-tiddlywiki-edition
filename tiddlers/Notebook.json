@@ -1,0 +1,13 @@
+[
+    {
+        "created": "20210328231829675",
+        "text": "Notebook is a clean, uncluttered theme for ~TiddlyWiki.\n\n* The theme is responsive and comes with mobile support through the included notebook-mobile plugin.\n* Notebook comes with 3 default colour palettes, a grey, beige and dark one. To switch between colour palettes, click the color palette switch button in the top bar.\n* Notebook uses a custom left sidebar, with another sticky bar at the top of the page (or at the bottom on mobile).",
+        "type": "text/vnd.tiddlywiki",
+        "title": "Notebook",
+        "tags": "Theme",
+        "modified": "20210329000733607",
+        "website": "https://nicolas.petton.fr/tw/notebook.html",
+        "git": "https://github.com/NicolasPetton/Notebook",
+        "notes": "Features top navigation, mobile optimization, and a hidden side menu "
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "description": "A curated Fission TiddlyWiki edition",
+    "plugins": [
+		"tiddlywiki/help",
+		"tiddlywiki/highlight",
+		"tiddlywiki/markdown",
+		"tiddlywiki/twitter",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/tiddlyweb"
+	],
+    "themes": [
+		"tiddlywiki/readonly",
+		"tiddlywiki/snowwhite",
+		"tiddlywiki/vanilla"
+	],
+	"build": {
+		"index": [
+			"--rendertiddler","$:/core/save/all","empty.html","text/plain"]
+	}
+
+}

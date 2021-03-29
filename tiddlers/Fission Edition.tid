@@ -1,0 +1,26 @@
+created: 20210328231553052
+modified: 20210329003114114
+tags: Fission
+title: Fission Edition
+type: text/vnd.tiddlywiki
+
+Welcome to the [[Fission]] Edition of ~TiddlyWiki. This is a curated selection of plugins, themes, and content, to work with [[TiddlyWiki on Fission]].
+
+!! Themes
+
+<$list filter="[tag[Theme]]">
+<li><$link>{{!!title}}</$link> {{!!notes}}</li>
+</$list>
+
+!! Plugins
+
+<$list filter="[tag[Plugin]]">
+<li><$link>{{!!title}}</$link></li>
+</$list>
+
+!! Help & Customization
+
+<$list filter="[tag[Help]] [tag[Customize]]">
+<li><$link>{{!!title}}</$link> {{!!notes}}</li>
+</$list>
+

@@ -1,0 +1,37 @@
+created: 20210328233036360
+git: https://github.com/TheDiveO/TW5FontAwesome
+modified: 20210329000053609
+tags: Plugin
+title: Font Awesome and External Link Decoration
+type: text/vnd.tiddlywiki
+website: https://thediveo.github.io/TW5FontAwesome/output/fontawesome.html
+
+
+<<<
+{{$:/plugins/TheDiveO/FontAwesome/readme}}
+<<<
+
+* [[FontAwesome readme|$:/plugins/TheDiveO/FontAwesome/readme]]
+* Plugin by [[TheDiveO|https://thediveo.github.io/tiddlywiki5]]
+
+---
+
+Use the [[Cheatsheet|https://thediveo.github.io/TW5FontAwesome/output/fontawesome.html#Cheatsheet:Cheatsheet]] to browse the icons to use.
+
+<<fa-clear>>
+
+`<<fa-lbox fas fa-cat>>`
+
+<<fa-lbox fas fa-cat>>
+
+`<<fa-badge fas fa-cat>>`
+
+<<fa-lbadge fas fa-cat>>
+
+<<fa-clear>>
+
+---
+
+!! [[Customize External Links]]
+
+{{Customize External Links}}
