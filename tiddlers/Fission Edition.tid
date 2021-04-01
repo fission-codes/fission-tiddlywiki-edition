@@ -1,5 +1,5 @@
 created: 20210328231553052
-modified: 20210401062107612
+modified: 20210401072947451
 tags: Fission
 title: Fission Edition
 type: text/vnd.tiddlywiki
@@ -13,6 +13,10 @@ The help button {{$:/plugins/help/Buttons/help}} has videos and a few other link
 <$list filter="[tag[Theme]]">
 <li><$link>{{!!title}}</$link> {{!!notes}}</li>
 </$list>
+
+You can toggle between three colour schemes {{$:/themes/nico/notebook/ui/Buttons/SwitchPalette}}
+
+Or explore all the [[theme settings under the Appearance section of the Control Panel|$:/core/ui/ControlPanel/Appearance]].
 
 !! Plugins
 
