@@ -1,7 +1,14 @@
 created: 20210329004223015
-modified: 20210329004256549
+modified: 20210401063337060
+notes: 
 tags: Fission Twitter
 title: Fission Tweets
 type: text/vnd.tiddlywiki
 
-<$twitter type="timelineProfile" screenName="FissionCodes"/>
+This is an embed of the latest 3 tweets for Fission:
+
+```
+<$twitter type="timelineProfile" screenName="FissionCodes" tweetLimit="3"/>
+```
+
+<$twitter type="timelineProfile" screenName="FissionCodes" tweetLimit="3"/>

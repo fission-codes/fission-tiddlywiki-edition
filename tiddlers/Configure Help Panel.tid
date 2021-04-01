@@ -1,5 +1,5 @@
 created: 20210329065238288
-modified: 20210329065748791
+modified: 20210401060226529
 tags: [[To Do]]
 title: Configure Help Panel
 type: text/vnd.tiddlywiki
@@ -9,3 +9,26 @@ Look at the [[help panel contents|$:/plugins/tiddlywiki/help]] and decide whethe
 The [[Support tab|$:/plugins/tiddlywiki/help/HelpPanel/Support]] can be edited.
 
 Delete some of the videos, include some new ones?
+
+---
+
+I added in [[Dave Gifford]]'s [[Customizer Plugin Video]].
+
+Then I made a screencast [[Help Panel Screencast Video]], which is on Vimeo not Youtube. Works! Need to add some code so that if the embed is empty, to not show the blank YouTube player.
+
+---
+
+Captured [[Jeremy Ruston]] demo'ing [[Drag and Drop Video]].
+
+Wrapped the embed code in a reveal so that the vimeo embeds display.
+
+```
+\define show-video(title)
+<$reveal type="nomatch" state="$title$!!embed" text="0">
+<$macrocall $name="show-video-inner" embed={{$title$!!embed}}/>
+</$reveal>
+<p>{{$title$!!text}}</p>
+\end
+```
+
+Noted this down in [[Github Issue|https://github.com/Jermolene/TiddlyWiki5/issues/5575]].

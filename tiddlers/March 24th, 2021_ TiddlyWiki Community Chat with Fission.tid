@@ -1,8 +1,13 @@
 created: 20210324070805538
-modified: 20210329064916627
-tags: Fission Event TiddlyWiki
+modified: 20210401061701865
+tags: Fission Event TiddlyWiki Video
 title: March 24th, 2021: TiddlyWiki Community Chat with Fission
 type: text/vnd.tiddlywiki
+website: https://blog.fission.codes/tiddlywiki-community-chat/
+
+On March 24th, we hosted a community chat for ~TiddlyWiki on Fission. We've been working with [[Jeremy Ruston]], ~TiddlyWiki creator, to integrate Fission's WebNative accounts and file system. Jeremy gave an overview and demo of the work to date, and we talked about what's next.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/529416013?color=6446FA&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Slides: [[2021-03-24-tiddlywiki-community-chat.pdf|https://presentations.fission.app/2021-03-24-tiddlywiki-community-chat.pdf]]
 

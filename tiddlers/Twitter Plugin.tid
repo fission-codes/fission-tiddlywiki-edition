@@ -1,15 +1,21 @@
 created: 20210329004402009
-modified: 20210329005016205
+modified: 20210401063216016
+notes: Core plugin for embedding tweets, twitter profiles and more
 tags: Plugin Twitter Core
 title: Twitter Plugin
 type: text/vnd.tiddlywiki
 
-This is a core plugin that we've enabled by default.
+This is a core plugin that we've enabled by default. Check out some of the embedded Twitter content:
+
+<$list filter="[tag[Twitter]!tag[Plugin]]">
+<li><$link>{{!!title}}</$link> {{!!notes}}</li>
+</$list>
+
 
 !! Readme
 
 {{$:/plugins/tiddlywiki/twitter/readme}}
 
----
+!! Usage
 
-Find out more about how to use the [[Twitter plugin|$:/plugins/tiddlywiki/twitter]] and its different widgets.
+{{$:/plugins/tiddlywiki/twitter/usage}}
